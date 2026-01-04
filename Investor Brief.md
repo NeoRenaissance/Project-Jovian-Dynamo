@@ -1,7 +1,6 @@
 Project Jovian Dynamo: Strategic Investment Brief
 
 Date: January 2026
-Security Clearance: PROMETHEAN / INVESTOR
 Subject: The Terawatt Solution & The Multi-Trillion Dollar ROI
 
 1. Executive Summary
