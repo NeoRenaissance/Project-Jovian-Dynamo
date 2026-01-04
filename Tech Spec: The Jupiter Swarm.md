@@ -65,4 +65,4 @@ Inclination: Equatorial (0°).
 
 Direction: Retrograde (Against the spin).
 
-Density: Swarm constellation of 50-100 units, phased to ensure 100% uptime for the North/South Relays.
+Targeting: Swarm elements phase-lock to transmit to local Active Levitation Relays hovering above the ecliptic plane near target bodies (Mars/Earth).
