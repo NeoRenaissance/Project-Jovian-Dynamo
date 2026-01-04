@@ -50,12 +50,12 @@ We do not mine with pickaxes; we clean with nets.
 * **Process:** Onboard **Centrifugal Induction Furnaces** (powered by the Beam) melt regolith.
     * **Output 1:** Volatiles (Water, Ammonia, Methane) for Mars terraforming.
     * **Output 2:** Precious Metals (Platinum, Gold) for export.
-    * **Output 3:** "Schmitz Tiles" (Sintered Stone) for radiation shielding.
+    * **Output 3:** "Schmutz Tiles" (Sintered Stone) for radiation shielding.
 * **Strategic Benefit:** Creates "Safe Lanes" for travel while stockpiling resources *before* human crews arrive.
 
 ---
 
-## 3. The Martian Economy: "The Promethean State"
+## 3. The Martian Economy: "Alureana"
 
 ### The "High-Wage" Model
 To attract talent, Mars must avoid the "Company Town" trap.
@@ -86,7 +86,7 @@ To attract talent, Mars must avoid the "Company Town" trap.
 
 ### Phase 3: The Boom (Year 15+)
 * **Olympus Railgun:** Constructed to launch precious metals back to Earth without fuel costs.
-* **Civilization:** "Schmitz Tile" cities expand. Recruitment opens to Earth via "Video-First" applications (filtering for psychological resilience).
+* **Civilization:** "Schmutz Tile" cities expand. Recruitment opens to Earth via "Video-First" applications (filtering for psychological resilience).
 
 ---
 
