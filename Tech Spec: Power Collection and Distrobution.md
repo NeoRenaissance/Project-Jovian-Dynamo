@@ -58,9 +58,9 @@ Why: In the vacuum of deep space, short wavelengths have minimal diffraction (be
 
 Efficiency: Diode-pumped solid-state lasers achieve >60% wall-plug efficiency.
 
-3.2 Targeting Geometry: The "Solar Pole-Sitter"
+3.2 Targeting Geometry: The "Active Levitation" Relay
 
-Target: Relay Stations hovering at the Solar North and South Vertices (out of the ecliptic plane).
+Target: Relays hovering directly above the Target Planet (Mars/Earth) in a non-Keplerian orbit.
 
 Tracking: Swarm satellites use Inter-Satellite Links (ISL) to form a phased array, combining their beams into a single coherent high-power channel aimed at the Relay.
 
@@ -68,9 +68,11 @@ Tracking: Swarm satellites use Inter-Satellite Links (ISL) to form a phased arra
 
 4.1 Station Mechanics
 
-Location: Static equilibrium above the Solar Poles, balanced by Solar Sail radiation pressure.
+Location: Static equilibrium above the Planet's Pole (e.g., 500,000km altitude).
 
-Function: The "Mirror in the Sky." It catches the Violet Laser and re-transmits it as Microwave energy.
+Propulsion: Parasitic Thrust. The station draws 0.1% of the incoming Laser power to drive Ion Thrusters, counteracting gravity to maintain a fixed position relative to the planet.
+
+Function: The "Active Mirror." It catches the Violet Laser and re-transmits it as Microwave energy.
 
 4.2 The Transduction Step (Light $\rightarrow$ Microwave)
 
@@ -87,6 +89,8 @@ Frequency: 5.8 GHz (C-Band) or 2.45 GHz (S-Band).
 Why: The "Atmospheric Window." Violet lasers would be blocked by clouds/dust on Earth or Mars. These specific microwave frequencies pass through rain, dust storms, and clouds with <2% attenuation.
 
 Beam Shape: A Gaussian profile (strongest in center, tapering at edges) to ensure safety at the perimeter of the receiving zone.
+
+Advantage: Because the relay is local (above the planet), beam diffraction is minimal, allowing for compact ground stations.
 
 5.2 Safety Protocol: The "Cylinder"
 
